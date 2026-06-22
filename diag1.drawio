@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="‫עמוד-1‬" id="z99gX6oroCdlNxEBdX8i">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="START" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="STOP" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="program 3&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;write a program that prints 1 2 3 in three different commands&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="560" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-9" edge="1" parent="1" source="54QOjlN_iuuLOWnJ5nuV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-25" edge="1" parent="1" source="54QOjlN_iuuLOWnJ5nuV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="54QOjlN_iuuLOWnJ5nuV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-22" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="print &quot;1&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-26" edge="1" parent="1" source="54QOjlN_iuuLOWnJ5nuV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="54QOjlN_iuuLOWnJ5nuV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-23" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="print &quot;2&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-24" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="print &quot;3&quot;" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="54QOjlN_iuuLOWnJ5nuV-27" edge="1" parent="1" source="54QOjlN_iuuLOWnJ5nuV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="54QOjlN_iuuLOWnJ5nuV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
